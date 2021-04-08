@@ -1,0 +1,409 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Afrin ",
+      "role": "User",
+      "username": "Afrin",
+      "email": "Afrin12@gmail.com",
+      "password": "Afrin@123",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "9876567854",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "pan": "456789054678",
+      "account": "898896765873",
+      "transactiondate": "12-04-21",
+      "balance": 6000,
+      "currentbalance": 68200,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Shehnaz",
+      "role": "User",
+      "username": "Shehnaz",
+      "email": "Shehnaz@gmail.com",
+      "password": "Shehnaz@123",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "99898976756",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "pan": "7654659054678",
+      "account": "932889765873",
+      "balance": 2000,
+      "currentbalance": 6700,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Kavya",
+      "role": "User",
+      "username": "kavya",
+      "email": "Kavya41@gmail.com",
+      "password": "kavya@123",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "8943896212",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "pan": "knt08905468",
+      "account": "78989765870",
+      "balance": 21000,
+      "currentbalance": 700,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Moyin",
+      "role": "User",
+      "username": "Lakshmi",
+      "email": "Moyin@gmail.com",
+      "password": "moyin@123",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "87768537834",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "pan": "knt78965s68",
+      "account": "78961865870",
+      "balance": 2100,
+      "currentbalance": 1700,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Saziya",
+      "role": "User",
+      "username": "Saziya Taj",
+      "email": "Saziya@gmail.com",
+      "password": "Saziya@123",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "7897845321",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      },
+      "pan": "knt056f5468",
+      "account": "78989765830",
+      "balance": 21000,
+      "currentbalance": 700,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 6,
+      "name": "Jakeer",
+      "role": "User",
+      "username": "jakeer",
+      "password": "Jakeer@123",
+      "email": "Jakeer@gmail.com",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "9123766789",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      },
+      "pan": "kntps0f5468",
+      "account": "78981165830",
+      "balance": 2100,
+      "currentbalance": 7200,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 7,
+      "name": "Zareen",
+      "role": "User",
+      "password": "Zareen@123",
+      "username": "Zareen Taj",
+      "email": "Zareen@gmail.com",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "996940420",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      },
+      "pan": "kntps0f7678",
+      "account": "90081165830",
+      "balance": 2100,
+      "currentbalance": 7200,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 8,
+      "name": "Amina",
+      "role": "User",
+      "email": "Amina@gmail.com",
+      "password": "Amina@123",
+      "username": "Amina ",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "99898934",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      },
+      "balance": 1100,
+      "currentbalance": 12000,
+      "pan": "289ji7890121",
+      "account": "46678789765",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "name": "Kamakshi",
+      "username": "Kamakshi",
+      "email": "Kamakshi@gmail.com",
+      "phone": "9945637892",
+      "pan": "KNTPS2345B",
+      "account": "123456789000",
+      "id": 9
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Afrin ",
+      "role": "Admin",
+      "username": "Afrin",
+      "email": "Afrin12@gmail.com",
+      "password": "Afrin@123",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "balance": 4500,
+      "currentbalance": 6000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Shehnaz",
+      "role": "Admin",
+      "username": "Shehnaz",
+      "email": "Shehnaz@gmail.com",
+      "password": "Shehnaz@123",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "balance": 4500,
+      "currentbalance": 6000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Kavya",
+      "role": "Admin",
+      "username": "kavya",
+      "email": "Kavya41@gmail.com",
+      "password": "kavya@123",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "balance": 2000,
+      "currentbalance": 1700,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Moyin",
+      "role": "Admin",
+      "username": "Lakshmi",
+      "email": "Moyin@gmail.com",
+      "password": "moyin@123",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "balance": 4500,
+      "currentbalance": 6000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Saziya",
+      "role": "Admin",
+      "username": "Saziya Taj",
+      "email": "Saziya@gmail.com",
+      "password": "Saziya@123",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "balance": 4500,
+      "currentbalance": 6000,
+      "cType": "current",
+      "sType": "savings"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+.App {
+  text-align: center;
+}
+.card {
+  margin-left: 450px;
+}
+.card1 {
+  
+  margin-left: 0px;
+  margin-right: 0px; 
+  height: 550px;
+}
+.demo{
+  text-align: center;
+    color: blue;
+    
+    font-family:  'Times New Roman',Georgia, Times, serif ,Cambria, Cochin;
+    margin-right: 0px;
+}
+.lock1
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid black;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 20px;
+}
+.foot {
+  margin-left: 400x;
+}
+
+.card2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 10px solid white;
+  padding-top: 20px;
+  padding-bottom: 220px;
+  border-radius: 0px;
+  margin-top: 160px;
+  margin-left: 500px;
+  margin-right: 500px; 
+  height: 15px;
+}
+.adminbg {
+  
+  height: 700px;
+  background-image:url("https://images-na.ssl-images-amazon.com/images/I/51I0bsHy2bL._SL1468_.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.admin{
+  margin-top: 0px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqRm8AO-bGKF4wSsN8Vv29wyM9ZCCDCeBjg&usqp=CAU");
+  background-size: cover;
+  height: 550px;
+  border-radius:5px;
+}
+
+.user{
+  border-radius:5px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqRm8AO-bGKF4wSsN8Vv29wyM9ZCCDCeBjg&usqp=CAU");
+  background-size: cover;
+  height: 550px;
+  margin-top: 0px;
+}
+.userpage{
+  
+  background-image: url("https://img.freepik.com/free-photo/balance-sheet-with-pencil-coins-bank-statement-account-concept_42125-73.jpg?size=626&ext=jpg");
+  background-size: cover;
+  height: 850px;
+
+}
+.demo1 {
+  background-image:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-light-0531-teddy-9_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=eef5b53a758aff72f4dc9b1c2543588e");
+  background-size: cover;
+  height: 600px;
+}
+
+.addamount {
+
+  background-image:url("https://thumbs-prod.si-cdn.com/p_Ib3X9_CBahpOBDrrFxZdNU-t4=/800x600/filters:no_upscale():focal(741x302:742x303)/https://public-media.si-cdn.com/filer/46/fc/46fcc528-ecb2-4f57-a637-c7b2fd957374/1024px-credit-cards.jpg");
+  background-size: cover;
+  height: 550px;
+}
+
+.creditdebit {
+  
+  background-image:url("https://thumbs-prod.si-cdn.com/p_Ib3X9_CBahpOBDrrFxZdNU-t4=/800x600/filters:no_upscale():focal(741x302:742x303)/https://public-media.si-cdn.com/filer/46/fc/46fcc528-ecb2-4f57-a637-c7b2fd957374/1024px-credit-cards.jpg");
+  background-size: cover;
+  height: 550px;
+}
+
+.home {
+  background-image:url("data:image/jpeg;base64,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");
+  background-size: cover;
+  
+}
+h3 {
+  
+    color:rgb(9, 19, 75);
+    font-family: 'Times New Roman',Georgia, Times, serif ,Cambria, Cochin;
+    text-align: center;
+    
+}
+h4{
+  text-align:center;
+  margin-right: 0px;
+}
+
+.edituser {
+  margin-top: 10px;
+  background-image: url("https://img.freepik.com/free-vector/digital-money-transfer-technology-background_1017-17454.jpg?size=338&ext=jpg&ga=GA1.2.1588707983.1617235200");
+  background-size: cover;
+  height: 600px;
+  
+}
+
+.adduser {
+ 
+  background-image: url("https://img.freepik.com/free-vector/digital-money-transfer-technology-background_1017-17454.jpg?size=338&ext=jpg&ga=GA1.2.1588707983.1617235200");
+  background-size: cover;
+  height: 700px;
+  
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.userview {
+  margin-top: 10px;
+  background-image: url("https://img.freepik.com/free-vector/digital-money-transfer-technology-background_1017-17454.jpg?size=338&ext=jpg&ga=GA1.2.1588707983.1617235200");
+  background-size: cover;
+  height: 700px;
+}
+.align{
+  margin-right: 500px;
+  width:350px;
+  height:350px;
+}
+.btn{
+  margin-top: 10px;
+}
+.reset{
+   margin-Right: '200px' ;
+}
+.welcom{
+  background-image: url("https://img.freepik.com/free-photo/stack-increasing-coins-with-ceramic-piggybank-against-white-backdrop_23-2147919155.jpg?size=626&ext=jpg");
+  background-size: cover;
+}.password{
+  margin-top: 0px;
+  background-image: url("https://www.tophelpline.com/images/microsoft%20password%20forgot%20help.jpg");
+  background-size: cover;
+  height: 550px;
+}
